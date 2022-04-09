@@ -4,7 +4,7 @@
 using namespace std;
 
 
-//struct date {
+struct date {
 //	int day;
 //	int month;
 //	int year;
